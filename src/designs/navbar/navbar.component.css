@@ -2,3 +2,9 @@
     width: 8%;
     /* height: 50%; */
 }
+    .header {
+        position: sticky;
+        top: 0;
+        
+       
+      }
