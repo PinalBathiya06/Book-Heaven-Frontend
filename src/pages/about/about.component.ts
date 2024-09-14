@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-about',
   standalone: true,
   imports: [],
-  template: ` hello pinal`,
+  template: ` This is About Us page...`,
   styles: `
   
   `,
