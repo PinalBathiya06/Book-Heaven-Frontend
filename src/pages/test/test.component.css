@@ -9,6 +9,7 @@
 .cover{
   color: #470829;
   margin-block-end: 0.67em;
+  
 }
 .btn{
   background-color: #470829;
@@ -54,7 +55,7 @@
   }
   
   .stacked-text span:last-child {
-    color: #753a88;
+    color: #470829;
   }
   
   .text-center1 {
@@ -79,4 +80,6 @@
   .text-center1:hover::after {
     width: 50px;
   }
-  
+  .text-lg{
+    color: #470829;
+  }
